@@ -196,7 +196,7 @@ namespace ConsoleApplication
             int[] array = new int[4] {-1,0,4,-5};
             // findMax(array);
             // getAvg(array);
-            // arrayOdd1to255();
+            arrayOdd1to255();
             // greaterY(array,3);
             // squareNum(array);
             // noNeg(array);
